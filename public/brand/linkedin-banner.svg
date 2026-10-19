@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1584" height="396" viewBox="0 0 1584 396">
+<defs><pattern id="g" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#FFFFFF" stroke-opacity="0.05"/></pattern>
+<radialGradient id="r" cx="0.78" cy="0.1" r="0.6"><stop offset="0" stop-color="#F25A2E" stop-opacity="0.35"/><stop offset="1" stop-color="#F25A2E" stop-opacity="0"/></radialGradient></defs>
+<rect width="1584" height="396" fill="#0B1020"/><rect width="1584" height="396" fill="url(#g)"/><rect width="1584" height="396" fill="url(#r)"/>
+<g transform="translate(560 92)">
+<g transform="scale(1.6)"><rect width="32" height="32" rx="8.5" fill="#111833"/><circle cx="10.5" cy="16" r="3.4" fill="#F25A2E"/><path d="M14.4 11.1a6.3 6.3 0 0 1 0 9.8" fill="none" stroke="#F25A2E" stroke-width="2.6" stroke-linecap="round"/><path d="M17.6 7.4a10.9 10.9 0 0 1 0 17.2" fill="none" stroke="#2FCB9E" stroke-width="2.6" stroke-linecap="round"/></g>
+<text x="66" y="40" font-family="Helvetica Neue, Arial, sans-serif" font-size="34" font-weight="700" fill="#FBF8F3" letter-spacing="-0.5">Skill<tspan fill="#F25A2E">Siren</tspan></text>
+<text x="0" y="128" font-family="Helvetica Neue, Arial, sans-serif" font-size="44" font-weight="700" fill="#FBF8F3" letter-spacing="-1">Skills that get heard.</text>
+<text x="0" y="178" font-family="Helvetica Neue, Arial, sans-serif" font-size="44" font-weight="700" fill="#2FCB9E" letter-spacing="-1">Matches that explain themselves.</text>
+<text x="0" y="226" font-family="Helvetica Neue, Arial, sans-serif" font-size="20" fill="#B4BAD3">AI skills matching for freelancers and small teams · skillsiren.site</text>
+</g>
+<g transform="translate(1300 70)">
+<rect width="240" height="256" rx="18" fill="#FBF8F3"/>
+<text x="20" y="36" font-family="Helvetica Neue, Arial, sans-serif" font-size="13" fill="#8891B4">MATCH · SAMPLE</text>
+<text x="20" y="72" font-family="Helvetica Neue, Arial, sans-serif" font-size="17" font-weight="700" fill="#111833">Dashboard MVP</text>
+<text x="172" y="74" font-family="Helvetica Neue, Arial, sans-serif" font-size="26" font-weight="700" fill="#111833">96%</text>
+<rect x="20" y="92" width="200" height="30" rx="8" fill="#E7FBF5"/><text x="34" y="112" font-family="Helvetica Neue, Arial, sans-serif" font-size="14" fill="#0A6A52">✓ React · TypeScript</text>
+<rect x="20" y="130" width="200" height="30" rx="8" fill="#E7FBF5"/><text x="34" y="150" font-family="Helvetica Neue, Arial, sans-serif" font-size="14" fill="#0A6A52">✓ REST APIs</text>
+<rect x="20" y="168" width="200" height="30" rx="8" fill="#FFF1EC"/><text x="34" y="188" font-family="Helvetica Neue, Arial, sans-serif" font-size="14" fill="#B23412">× AWS: not on profile</text>
+<text x="20" y="230" font-family="Helvetica Neue, Arial, sans-serif" font-size="13" fill="#5A6694">Every fit explained.</text>
+</g>
+</svg>
